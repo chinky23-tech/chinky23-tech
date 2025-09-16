@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on web development 
-- 📫 How to reach me :- chinky0330@gmail.com
+- 📫 How to reach me :- shecodes2321@gmail.com
 - 😄 Pronouns: she
 - ⚡ Fun fact: I need work . 
 - ** author :- chinky
